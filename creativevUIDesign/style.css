@@ -1,0 +1,25 @@
+.hero {
+    background: #000080;
+}
+
+#slider {
+    font: 19px sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 600px;
+    height: 300px;
+    overflow: hidden;
+}
+
+#kontrol {
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+}
+
+#kontrol a {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    text-decoration: none;
+}
